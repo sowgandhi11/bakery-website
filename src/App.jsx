@@ -14,7 +14,12 @@ import JsonData from './data/data.json'
 import SmoothScroll from 'smooth-scroll'
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
+var rootStyle = {
+  backgroundColor : 'white',
+  color : 'white',
+  height : '100%'
 
+}
 
 export class App extends React.Component {
 
@@ -24,7 +29,7 @@ render(){
 
 
 
-    <div>
+    <div style={rootStyle}>
       <Navigation></Navigation>
       <Header></Header>
       <About></About>
