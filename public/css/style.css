@@ -219,11 +219,15 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin: 0 auto;
 	margin-bottom: 60px;
 }
+.intro img{
+	max-width: 100%;
+	height: auto;
+}
 header .intro-text {
 	padding-top: 350px;
 	padding-bottom: 200px;
 	text-align: center;
-    font-family: 'American Typewriter', serif;
+  font-family: 'American Typewriter', serif;
 }
 /* Features Section */
 #features {
@@ -575,11 +579,13 @@ color: #777;
 #footer a:hover {
 	border-bottom: 2px solid #608dfd;
 }
+#footer img{
+	max-width: 100%;
+	height: auto;
+}
 
 @media (max-width: 768px) {
 #about img {
 	margin: 50px 0;
-	max-width: 100%;
-  height: auto;
 }
 }
