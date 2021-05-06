@@ -15,7 +15,7 @@ import {Testimonials} from './components/testimonials'
 
 ReactDOM.render((
 
-  <HashRouter>
+  <BrowserRouter>
      <Route path="/" component={App} exact={true} />
      <Route path="/contact" component={Contact} exact={true} />
      <Route path="/about" component={About} exact={true} />
@@ -23,7 +23,7 @@ ReactDOM.render((
      <Route path="/services" component={Services} exact={true} />
      <Route path="/gallery" component={Gallery} exact={true} />
      <Route path="/testimonials" component={Testimonials} exact={true} />
-   </HashRouter>
+   </BrowserRouter>
 
 
 ),document.getElementById('root'))
