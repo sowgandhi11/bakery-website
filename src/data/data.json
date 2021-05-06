@@ -1,0 +1,146 @@
+{
+    "Header": {
+
+        "title": "Welcome to TT’s Creative Confections",
+        "paragraph": ""
+
+    },
+    "About": {
+        "paragraph": "TT’s Creative Confections is an in home bakery located in Palatine, IL. Tianna Turton is the self taught baker/decorator. Tianna started TT’s Creative Confections back in 2013 while she was in college at ISU. TT’s Creative Confections offers beautiful and creative customized cake, cupcakes, pie and pastry orders. ",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-spoon",
+            "name": "Cupcakes",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "name": "Cakes",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "name": "Cookies",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "name": "Pies",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "name": "Pastries",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "name": "And more!",
+            "text": ""
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/conner.jpeg",
+            "text": "My little girls adored and loved the cake.",
+            "name": "Conner Giovenco"
+        },
+        {
+            "img": "img/testimonials/floral.jpeg",
+            "text":"The prettiest floral cakes I have ever seen!",
+            "name": "Sowgandhi Bhattu"
+        },
+        {
+            "img": "img/testimonials/chloe.jpeg",
+            "text": "Thank you Tianna for making the most beautiful cake for Chloe's 6th birthday party today!!!",
+            "name": "Elena Fantucchio"
+        },
+        {
+            "img": "img/testimonials/carousel.jpeg",
+            "text": "Thank you Tianna for trusting me with your cake topper. Your cake came out great! I particularly like the ruffles at the bottom you created.",
+            "name": "@smashingcaketoppers"
+        },
+        {
+            "img": "img/testimonials/rosella.jpeg",
+            "text": "Huge shout out to the amazing talent of Tianna Turton!! She has absolutely blown us away with the most beautiful cakes!",
+            "name": "Rosella CLinton"
+        },
+        {
+            "img": "img/testimonials/canan.jpeg",
+            "text":  "Special shot out to Tianna Turton for my amazing cake!! It was so beautiful and delicious!! Thank you!!.",
+            "name": "Canan Imbrogno"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+
+        "phone": "+1 224 715 2833",
+        "email": "tturton0622@gmail.com ",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-spoon",
+            "title": "Cupcakes",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "title": "Cakes",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "title": "Cookies",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "title": "Pies",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "title": "Pastries",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-spoon",
+            "title": "And more...",
+            "text": ""
+        }
+    ]
+}
