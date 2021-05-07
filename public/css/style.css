@@ -496,7 +496,7 @@ header .intro-text {
 	font-size: 16px;
 }
 #contact h2 {
-	color: #fff;
+	color: #386aff;
 	margin-top: 10px;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
@@ -511,7 +511,7 @@ header .intro-text {
 	left: 30px;
 }
 #contact h3 {
-	color: #fff;
+	color: #386aff;
 	margin-top: 2px;
 	margin-bottom: 25px;
 	padding-bottom: 20px;
@@ -580,11 +580,11 @@ color: #777;
 
 }
 #contact p{
-	color: #fff
+	color: #386aff
 
 }
 #contact .contact-item span {
-	color: rgba(255,255,255,1);
+	color: #386aff;
 	margin-bottom: 10px;
 	display: block;
 		font-size: 22px;
@@ -608,7 +608,7 @@ color: #777;
 	height: 48px;
 	padding: 12px 0;
 	border: 2px solid #fff;
-	color: #fff;
+	color: #386aff;
 	border-radius: 50%;
 	transition: all 0.3s;
 }

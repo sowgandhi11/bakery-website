@@ -28,7 +28,7 @@ export class Gallery extends React.Component{
              <div className='container'>
                <div className='section-title'>
                  <h2>Gallery</h2>
-          
+
                </div>
                <div className='row'>
                  <div className='portfolio-items'>
@@ -43,7 +43,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed.jpg'
+                             src='img/portfolio/copy.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -62,7 +62,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-1.jpg'
+                             src='img/portfolio/copy-1.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -81,7 +81,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-2.jpg'
+                             src='img/portfolio/copy-2.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -100,7 +100,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-3.jpg'
+                             src='img/portfolio/copy-3.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -119,7 +119,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-4.jpg'
+                             src='img/portfolio/copy-4.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -138,7 +138,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-5.jpg'
+                             src='img/portfolio/copy-5.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -157,7 +157,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-6.jpg'
+                             src='img/portfolio/copy-6.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -176,7 +176,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-7.jpg'
+                             src='img/portfolio/copy-7.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -195,7 +195,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-8.jpg'
+                             src='img/portfolio/copy-8.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -214,7 +214,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-9.jpg'
+                             src='img/portfolio/copy-9.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -233,7 +233,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-10.jpg'
+                             src='img/portfolio/copy-10.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -252,7 +252,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-11.jpg'
+                             src='img/portfolio/copy-11.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -271,7 +271,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-12.jpg'
+                             src='img/portfolio/copy-12.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -290,7 +290,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-13.jpg'
+                             src='img/portfolio/copy-13.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -309,7 +309,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-14.jpg'
+                             src='img/portfolio/copy-14.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -328,7 +328,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-15.jpg'
+                             src='img/portfolio/copy-15.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -349,7 +349,7 @@ export class Gallery extends React.Component{
                              <h4>Lorem Ipsum</h4>
                            </div>
                            <img
-                             src='img/portfolio/unnamed-16.jpg'
+                             src='img/portfolio/copy-16.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -368,7 +368,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-17.jpg'
+                             src='img/portfolio/copy-17.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -387,7 +387,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-18.jpg'
+                             src='img/portfolio/copy-18.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -406,7 +406,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-19.jpg'
+                             src='img/portfolio/copy-19.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -425,7 +425,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-20.jpg'
+                             src='img/portfolio/copy-20.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -444,7 +444,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-21.jpg'
+                             src='img/portfolio/copy-21.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -463,7 +463,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-22.jpg'
+                             src='img/portfolio/copy-22.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -482,7 +482,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-23.jpg'
+                             src='img/portfolio/copy-23.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -501,7 +501,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-24.jpg'
+                             src='img/portfolio/copy-24.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -520,7 +520,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-25.jpg'
+                             src='img/portfolio/copy-25.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -539,7 +539,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-26.jpg'
+                             src='img/portfolio/copy-26.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -559,7 +559,7 @@ export class Gallery extends React.Component{
 
 
                            <img
-                             src='img/portfolio/unnamed-27.jpg'
+                             src='img/portfolio/copy-27.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -578,7 +578,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-28.jpg'
+                             src='img/portfolio/copy-28.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -597,7 +597,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-29.jpg'
+                             src='img/portfolio/copy-29.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -616,7 +616,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-30.jpg'
+                             src='img/portfolio/copy-30.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -635,7 +635,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-31.jpg'
+                             src='img/portfolio/copy-31.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -654,7 +654,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-32.jpg'
+                             src='img/portfolio/copy-32.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -673,7 +673,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-33.jpg'
+                             src='img/portfolio/copy-33.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -692,7 +692,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-34.jpg'
+                             src='img/portfolio/copy-34.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -711,7 +711,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-35.jpg'
+                             src='img/portfolio/copy-35.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -730,7 +730,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-36.jpg'
+                             src='img/portfolio/copy-36.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -749,7 +749,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-37.jpg'
+                             src='img/portfolio/copy-37.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -768,7 +768,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-38.jpg'
+                             src='img/portfolio/copy-38.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -787,7 +787,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-39.jpg'
+                             src='img/portfolio/copy-39.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -806,7 +806,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-40.jpg'
+                             src='img/portfolio/copy-40.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -825,7 +825,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-41.jpg'
+                             src='img/portfolio/copy-41.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -844,7 +844,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-42.jpg'
+                             src='img/portfolio/copy-42.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -863,7 +863,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-43.jpg'
+                             src='img/portfolio/copy-43.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -882,7 +882,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-44.jpg'
+                             src='img/portfolio/copy-44.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -901,7 +901,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-45.jpg'
+                             src='img/portfolio/copy-45.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -920,7 +920,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-46.jpg'
+                             src='img/portfolio/copy-46.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -939,7 +939,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-47.jpg'
+                             src='img/portfolio/copy-47.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -958,7 +958,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-48.jpg'
+                             src='img/portfolio/copy-48.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -977,7 +977,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-49.jpg'
+                             src='img/portfolio/copy-49.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -996,7 +996,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-50.jpg'
+                             src='img/portfolio/copy-50.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1015,7 +1015,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-51.jpg'
+                             src='img/portfolio/copy-51.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1034,7 +1034,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-52.jpg'
+                             src='img/portfolio/copy-52.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1053,7 +1053,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-53.jpg'
+                             src='img/portfolio/copy-53.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1072,7 +1072,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-54.jpg'
+                             src='img/portfolio/copy-54.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1091,7 +1091,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-55.jpg'
+                             src='img/portfolio/copy-55.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1110,7 +1110,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-56.jpg'
+                             src='img/portfolio/copy-56.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1129,7 +1129,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-57.jpg'
+                             src='img/portfolio/copy-57.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1148,7 +1148,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-58.jpg'
+                             src='img/portfolio/copy-58.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1167,7 +1167,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-59.jpg'
+                             src='img/portfolio/copy-59.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1186,7 +1186,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-60.jpg'
+                             src='img/portfolio/copy-60.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1205,7 +1205,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-61.jpg'
+                             src='img/portfolio/copy-61.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1224,7 +1224,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-62.jpg'
+                             src='img/portfolio/copy-62.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1243,7 +1243,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-63.jpg'
+                             src='img/portfolio/copy-63.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1262,7 +1262,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-64.jpg'
+                             src='img/portfolio/copy-64.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1281,7 +1281,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-65.jpg'
+                             src='img/portfolio/copy-65.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1300,7 +1300,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-66.jpg'
+                             src='img/portfolio/copy-66.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1319,7 +1319,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-67.jpg'
+                             src='img/portfolio/copy-67.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1338,7 +1338,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-68.jpg'
+                             src='img/portfolio/copy-68.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1357,7 +1357,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-69.jpg'
+                             src='img/portfolio/copy-69.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1376,7 +1376,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-70.jpg'
+                             src='img/portfolio/copy-70.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1395,7 +1395,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-71.jpg'
+                             src='img/portfolio/copy-71.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1414,7 +1414,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-72.jpg'
+                             src='img/portfolio/copy-72.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1433,7 +1433,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-73.jpg'
+                             src='img/portfolio/copy-73.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1452,7 +1452,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-74.jpg'
+                             src='img/portfolio/copy-74.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
@@ -1471,7 +1471,7 @@ export class Gallery extends React.Component{
                          >
 
                            <img
-                             src='img/portfolio/unnamed-75.jpg'
+                             src='img/portfolio/copy-75.jpg'
                              className='img-responsive'
                              alt='Project Title'
                            />{' '}
