@@ -25,8 +25,9 @@ h3 {
 }
 h4 {
 	font-size: 18px;
-	color: #1f070d;
-	font-weight: 600;
+	color: #4888f0;
+
+	font-weight: 400;
 }
 h5 {
 	text-transform: uppercase;
@@ -219,6 +220,42 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin: 0 auto;
 	margin-bottom: 60px;
 }
+
+.intro2 {
+	display: table;
+	width: 100%;
+	padding: 0;
+	background: url(../img/pink.jpg) center center no-repeat;
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.intro2 .overlay {
+	background: rgba(0,0,0,0.2);
+}
+.intro2 h1 {
+	font-family: 'American Typewriter', serif;
+	color: #ffffff;
+	font-size: 45px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.intro2 h1 span {
+	font-weight: 800;
+	color: #5ca9fb;
+}
+.intro2 p {
+	color: #fff;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 30px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
 header img{
 	max-width: 100%;
 	height: auto;
@@ -229,6 +266,8 @@ header .intro-text {
 	text-align: center;
   font-family: 'American Typewriter', serif;
 }
+
+
 /* Features Section */
 #features {
 	padding: 100px 0;
@@ -314,6 +353,7 @@ header .intro-text {
 	bottom: 0;
 	margin-left: -30px;
 	left: 50%;
+
 }
 #services i.fa {
 	font-size: 42px;
@@ -383,8 +423,13 @@ header .intro-text {
 }
 /* Testimonials Section */
 #testimonials {
-	padding: 100px 0;
-	background: #f6f6f6;
+	padding: 70px 0;
+	background: #fff;
+}
+#testimonials h1{
+	padding: 70px 0;
+	background: #fff;
+	font-family: 'American Typewriter'
 }
 #testimonials i {
 	color: #e6e6e6;
@@ -467,13 +512,14 @@ header .intro-text {
 }
 #contact h3 {
 	color: #fff;
-	margin-top: 80px;
+	margin-top: 2px;
 	margin-bottom: 25px;
 	padding-bottom: 20px;
-	font-weight: 400;
+	font-size:  30px;
+	font-weight: 500;
 }
 #contact form {
-	padding-top: 20px;
+	padding-top: 5px;
 }
 #contact .text-danger {
 	color: #cc0033;
@@ -531,14 +577,17 @@ color: #777;
 }
 #contact .contact-item {
 	margin: 5px 0;
+
 }
 #contact p{
 	color: #fff
+
 }
 #contact .contact-item span {
 	color: rgba(255,255,255,1);
 	margin-bottom: 10px;
 	display: block;
+		font-size: 22px;
 }
 #contact .contact-item i.fa {
 	margin-right: 10px;
@@ -551,7 +600,7 @@ color: #777;
 }
 #contact .social ul li {
 	display: inline-block;
-	margin: 0 0px;
+	margin: 0 20px;
 }
 #contact .social i.fa {
 	font-size: 22px;

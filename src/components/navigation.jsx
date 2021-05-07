@@ -22,9 +22,7 @@ export class Navigation extends React.Component{
               </div>
               <div className='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
               <ul className='nav navbar-nav navbar-right'>
-                  <li>
-                    <Link target={"_blank"} to='/about'> About </Link>
-                  </li>
+
                   <li>
                     <Link to='/gallery'>
                       Gallery
@@ -36,11 +34,7 @@ export class Navigation extends React.Component{
                       </Link>
                   </li>
 
-                  <li>
-                    <Link to='/contact'>
-                      Contact
-                    </Link>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
