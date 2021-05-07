@@ -45,9 +45,7 @@ render() {
               <Link to="/Gallery">
                 <li> <h4>Gallery</h4></li>
               </Link>
-              <Link to="/Testimonials">
-                <li> <h4>Testimonials</h4></li>
-              </Link>
+
             </ul>
           </div>
           <div className='col-md-12'>
