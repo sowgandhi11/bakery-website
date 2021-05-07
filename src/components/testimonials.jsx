@@ -8,25 +8,8 @@ export class Testimonials extends React.Component {
 
 
     <div id='testimonials'>
-    <Navigation></Navigation>
-    <header id='header'>
-
-        <div className='overlay'>
-          <div className='container'>
-            <div className='row'>
-              <div className='col-md-8 col-md-offset-2 intro-text'>
-                <h1>
-                  What our friends say
-                  <span></span>
-                </h1>
 
 
-              </div>
-            </div>
-          </div>
-        </div>
-
-    </header>
 
 
       <div className='container'>
@@ -114,7 +97,7 @@ export class Testimonials extends React.Component {
 
 
 
-    <Contact></Contact>
+
     </div>
 
   )

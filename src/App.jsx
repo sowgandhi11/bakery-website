@@ -29,6 +29,7 @@ render(){
       <Header></Header>
       <About></About>
       <Services></Services>
+      <Testimonials></Testimonials>
       <Contact></Contact>
 
     </div>

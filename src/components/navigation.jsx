@@ -28,13 +28,9 @@ export class Navigation extends React.Component{
                       Gallery
                     </Link>
                   </li>
-                  <li>
-                    <Link to='/testimonials'>
-                      Testimonials
-                      </Link>
-                  </li>
+              
 
-                  
+
                 </ul>
               </div>
             </div>
