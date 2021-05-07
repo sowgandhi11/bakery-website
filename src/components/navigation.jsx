@@ -28,8 +28,11 @@ export class Navigation extends React.Component{
                       Gallery
                     </Link>
                   </li>
-              
-
+                  <li>
+                    <a href='#contact'>
+                      Contact Now
+                    </a>
+                  </li>
 
                 </ul>
               </div>

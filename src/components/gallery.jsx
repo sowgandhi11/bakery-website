@@ -28,8 +28,14 @@ export class Gallery extends React.Component{
              <div className='container'>
                <div className='section-title'>
                  <h2>Gallery</h2>
-
+                 <a href='#contact'
+                   className='btn btn-custom btn-lg page-scroll'
+                 >
+                   Contact Now
+                 </a>
                </div>
+
+
                <div className='row'>
                  <div className='portfolio-items'>
                    <div className='col-sm-6 col-md-4 col-lg-4'>

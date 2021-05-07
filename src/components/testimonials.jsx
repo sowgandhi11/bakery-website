@@ -59,7 +59,11 @@ export class Testimonials extends React.Component {
                     </div>
                     <div className='testimonial-content'>
                       <p>"Thank you Tianna for trusting me with your cake topper. Your cake came out great! I particularly like the ruffles at the bottom you created."</p>
-                      <div className='testimonial-meta'> - <a href= "www.instagram.com/smashingcaketoppers">@smashingcaketoppers</a> </div>
+                      <div className='testimonial-meta'> -
+                        <a href= "https://www.instagram.com/smashingcaketoppers">
+                        @smashingcaketoppers
+                        </a> 
+                      </div>
                     </div>
                   </div>
                 </div>
